@@ -1,0 +1,16 @@
+{
+  "name": "final-form-vanilla-js-demo",
+  "version": "1.0.0",
+  "description": "A demonstration of using final-form with no other libraries",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "final-form": "^4.20.10"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
